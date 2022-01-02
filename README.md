@@ -1,4 +1,5 @@
-- 👋 Hi, this is Moro!
+- 👋 Hi, this is Moro
+- Enjoy today & laugh tomorrow! 
 
 
 <!---
