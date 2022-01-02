@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @candymon
-- 👀 I’m interested in cloud security, devSecOps and automation
-- 🌱 I’m currently learning cloud
-- 💞️ I’m looking to collaborate on any open source projects
+- 👋 Hi, this is Moro!
 
 
 <!---
